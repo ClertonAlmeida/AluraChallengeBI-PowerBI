@@ -19,7 +19,13 @@ Por fim, focaremos no embelezamento de cada um dos dashboards com a finalidade d
 
 # Semana 1 do Challenge 
 
-## Descrição
+## Descrição:
+* Visualizar quantas entregas foram feitas no prazo
+### Atividades:
+
+1.  Calcular através dos dados o número de entregas feitas no prazo, e escolher uma visualização para observarmos essa métrica no dashboard.
+2.  Um visual de cartão pode ser uma boa escolha para exibir um valor.
+
 
 O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV sendo essas bases:
 
